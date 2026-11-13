@@ -1,0 +1,1 @@
+Increase JVM heap with -Xmx flag (e.g., -Xmx2g) or profile heap usage.
