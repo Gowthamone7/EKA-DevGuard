@@ -1,0 +1,6 @@
+--- a/config/db_pool.properties
++++ b/config/db_pool.properties
+@@ -10,3 +10,3 @@
+-max_connections=20
++max_connections=100
++connection_timeout_ms=5000
