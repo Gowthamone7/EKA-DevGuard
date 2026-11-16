@@ -1,0 +1,1 @@
+Increase container JVM allocation via -Xmx flag (e.g., -Xms512m -Xmx2048m -XX:+UseG1GC) and enable HeapDumpOnOutOfMemoryError.
